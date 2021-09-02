@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Sagás</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Eduardo Rebelo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelo0512" alt="marcelorebelo" /> </p>
 
 - 🔭 I’m currently working on [Neorede Telecom](https://neorede.com.br)
